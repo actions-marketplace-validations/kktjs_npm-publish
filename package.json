@@ -27,7 +27,7 @@
     "@actions/core": "^1.9.1",
     "@jsdevtools/npm-publish": "^1.4.3",
     "fast-glob": "^3.2.11",
-    "pacote": "^15.1.1"
+    "pacote": "^21.5.0"
   },
   "devDependencies": {
     "@types/pacote": "^11.1.5",
